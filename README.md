@@ -4,10 +4,6 @@
 </div>
 <br>
 
-<p align="center">
-    <img src="https://he-s3.s3.amazonaws.com/media/cache/75/dd/75dd36f17da5be79931387e3b979848f.png" alt="Logo" width="150">        
-</p>
-
 <br/>
 
 **Demo Website** : [https://vkyc.netlify.app/](https://vkyc.netlify.app/)<br/>
