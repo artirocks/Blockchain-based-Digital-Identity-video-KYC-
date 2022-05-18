@@ -82,7 +82,7 @@ Adding remark and Acceping/Rejection of KYC request<br/><hr width=600/>
 
 ## Step 2. Install dependencies
 ```
-$ cd eKYC-Portal
+$ cd Blockchain based Digital Identity & video-KYC
 $ npm install
 ```
 ## Step 3. Start Ganache
