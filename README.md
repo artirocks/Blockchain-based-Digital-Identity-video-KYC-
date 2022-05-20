@@ -10,13 +10,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## **Problem Statement**
-Covid-19 Pandemic has triggered a new innovation in the field of KYC called Video KYC (Know Your Customer) - vKYC. Typically a vKYC is done via a weblink which asks the applicant to upload a few digital documents link PAN Card, Aadhaar along with selfie pictures and location of the applicant through GPS & IP address. This is followed by an employee of the financial institution calling the application over a video call to verify the data and documents. However, this process is done by each institution in silos for which the applicant ends up doing vKYC for each institution separately.
-
-Imagine a group of N banks coming together and forming a consortium who agrees to have the same vKYC for all the member banks. They want to develop a blockchain based vKYC platform where the vKYC is done once and is stored in a blockchain and the member banks share this data for their KYC needs. Apply your innovations and develop a blockchain based vKYC platform.
-<br>
-<br>
-
 <!-- Key Features -->
 ## **Key Features**
 <br>
@@ -33,34 +26,6 @@ Imagine a group of N banks coming together and forming a consortium who agrees t
 </ul>  
 <br>
 <br>
-
-## **Our Solution**
-Conventional banking and financial institutions spend a substantial part of customer acquisition costs and isolated KYC databases and try to keep them updated and accurate. The overall cost of managing the silo KYC per customer increases because of a lack of transparency, poor control, mistrust, and data duplication. ​
-
-To overcome the problems caused in traditional system we designed a new, efficient and effective KYC processes  which makes use of highly decentralized technologies such as InterPlanetary File System (IPFS) and Ethereum blockchain that allows, through the suggested developed smart contracts, the implementation of multi-party KYC processes on top of blockchains.
-
-Our solution presents a unique trust management platform based on self-sovereign and decentralizes Video-Know-Your-Customer (vKYC) model to enhance customer privacy through consent-based access, featuring regulator governance and helping banks to use trusted and accurate customer data while reducing the customer acquisition costs.​
-
-Moreover, in decentralized  vKYC platform  the vKYC is done once and is stored in a blockchain and the member banks share this data for their KYC needs.
-<br/>
-<br/>
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## **Screenshots**
-<div align="center" ><br/>
-Client Pannel<br/><hr width=600/>
-  <img src="./images/4.png" width=600 ><br/><br/>
-Video KYC by Bank Client<br/><hr width=600/>
-  <img src="./images/2.png" width=600 ><br/><br/>
-Accessing KYC history<br/><hr width=600/>
-  <img src="./images/3.png" width=600><br/>
-Adding remark and Acceping/Rejection of KYC request<br/><hr width=600/>
-  <img src="./images/1.png" width=600><br/>
-</div>
-<br/>
 
 ### **Tech Stack used**
 
